@@ -4,14 +4,14 @@
 
 ### Intento de desarrollador web y móvil, creador de contenido por pasión desde México
 
-- Actualmente trabajando en do.senk.host
+- Actualmente trabajando en https://do.senk.host
 - Escritor y telenovero de medio tiempo.
 - Medio aprendiz de PHP, Kotlin y maestro de arquitectura de código.
 - Mi correo de contacto es harold.yamada14@gmail.com
 
 <br/>
 <p align="left">
-  <a href="senk.senk.host" target="_blank">
+  <a href="https://senk.senk.host" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
