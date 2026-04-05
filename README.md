@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1000x250/000000/FFFFFF/?text=AQUI+VA+TU+BANNER" alt="Mi Banner" width="100%" />
+<img src="https://senk.senk.host/team/banner_1.png" alt="Mi Banner" width="100%" />
 
 # Hey, Soy Harold Mundo! 
 
